@@ -1,0 +1,27 @@
+1486176180451	geckodriver	INFO	Listening on 127.0.0.1:54103
+1486176181666	mozprofile::profile	INFO	Using profile path /var/folders/tq/bwb532k15mj2dxymgnzlqkcr0000gn/T/rust_mozprofile.rqBJu6AeBM6m
+1486176181670	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486176181694	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54112
+1486176182476	Marionette	INFO	Listening on port 54112
+2017-02-04 11:43:05.652 firefox-bin[39073:322555] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-02-04 11:47:40.888 firefox-bin[39073:322555] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-02-04 11:47:40.902 firefox-bin[39073:322555] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-02-04 11:47:48.837 firefox-bin[39073:322555] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-02-04 11:47:48.855 firefox-bin[39073:322555] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1486176478830	geckodriver	INFO	Listening on 127.0.0.1:54165
+1486176479784	mozprofile::profile	INFO	Using profile path /var/folders/tq/bwb532k15mj2dxymgnzlqkcr0000gn/T/rust_mozprofile.bttBF37Qd2uH
+1486176479787	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486176479790	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54174
+1486176480535	Marionette	INFO	Listening on port 54174
+2017-02-04 11:48:03.962 firefox-bin[39149:327608] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-02-04 11:48:06.658 firefox-bin[39149:327608] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-02-04 11:48:08.307 firefox-bin[39149:327608] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+1486176561414	geckodriver	INFO	Listening on 127.0.0.1:54205
+1486176562404	mozprofile::profile	INFO	Using profile path /var/folders/tq/bwb532k15mj2dxymgnzlqkcr0000gn/T/rust_mozprofile.5TtiqcxQTSJT
+1486176562407	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1486176562414	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54214
+1486176563134	Marionette	INFO	Listening on port 54214
+2017-02-04 11:55:30.550 firefox-bin[39285:329592] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-02-04 11:55:30.725 firefox-bin[39285:329592] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-02-04 11:55:36.537 firefox-bin[39285:329592] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
+2017-02-04 11:55:36.566 firefox-bin[39285:329592] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
