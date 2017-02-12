@@ -16,6 +16,10 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 
+import lists
+
 urlpatterns = [
-    url(r'^admin/', admin.site.urls),
+    url(r'^$', lists.views.home_page, name='home')
+    #url(r'^$', 'lists.views.home_page', name='home') 문자열로 부르는것이 버전 업뎃 되면서 duplicate되었더.
+    #url(r'^admin/', admin.site.urls),
 ]

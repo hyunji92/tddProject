@@ -5,6 +5,9 @@ class NewVisitorTest(unittest.TestCase):
     
     def setUp(self):
         self.browser = webdriver.Firefox()
+        #암묵적 대기 추가
+        self.browser.implicitly_wait(3)
+        # 셀레늄 테스트에 있어 기본적인 로직이다.
 
     def tearDown(self):
         self.browser.quit()
