@@ -81,3 +81,12 @@ Full stack:
 2017-02-12 18:35:43.160 firefox-bin[6406:516990] IMKInputSession presentFunctionRowItemTextInputViewWithEndpoint:completionHandler: : *NO* NSRemoteViewController to client, NSError=Error Domain=NSCocoaErrorDomain Code=4097 "connection from pid 0" UserInfo={NSDebugDescription=connection from pid 0}, com.apple.inputmethod.EmojiFunctionRowItem
 [Child 6407] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
 [Child 6407] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487154236964	geckodriver	INFO	Listening on 127.0.0.1:51488
+1487154237956	mozprofile::profile	INFO	Using profile path /var/folders/tq/bwb532k15mj2dxymgnzlqkcr0000gn/T/rust_mozprofile.cY5KyMyvnIWZ
+1487154237959	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487154237990	geckodriver::marionette	INFO	Connecting to Marionette on localhost:51497
+1487154238942	Marionette	INFO	Listening on port 51497
+1487154241201	Marionette	WARN	Using deprecated data structure for setting timeouts
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 3290] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 3290] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
