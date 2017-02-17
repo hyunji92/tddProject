@@ -90,3 +90,20 @@ Full stack:
 [GFX1-]: Receive IPC close with reason=AbnormalShutdown
 [Child 3290] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
 [Child 3290] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487312510995	geckodriver	INFO	Listening on 127.0.0.1:54852
+1487312511997	mozprofile::profile	INFO	Using profile path /var/folders/tq/bwb532k15mj2dxymgnzlqkcr0000gn/T/rust_mozprofile.c3V0TtO0LhIL
+1487312512000	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487312512005	geckodriver::marionette	INFO	Connecting to Marionette on localhost:54861
+1487312512911	Marionette	INFO	Listening on port 54861
+1487312515007	Marionette	WARN	Using deprecated data structure for setting timeouts
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+[Child 8593] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 8593] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487318154120	geckodriver	INFO	Listening on 127.0.0.1:55205
+1487318155090	mozprofile::profile	INFO	Using profile path /var/folders/tq/bwb532k15mj2dxymgnzlqkcr0000gn/T/rust_mozprofile.laymoiodBwcs
+1487318155093	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487318155098	geckodriver::marionette	INFO	Connecting to Marionette on localhost:55212
+1487318155953	Marionette	INFO	Listening on port 55212
+1487318158202	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 10270] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 10270] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
