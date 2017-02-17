@@ -21,6 +21,6 @@ class HomePageTest(TestCase):
         request =  HttpRequest()
         response =  home_page(request)
         self.assertTrue(response.content.startswith(b'<html>'))
-        self.assertIn(b'<title> To-Do lists</title>', response.content)
-        self.assertTrue(response.content.endswoth(b'</html>'))
+        self.assertIn(b'<title>To-Do lists</title>', response.content)
+        self.assertTrue(response.content.endswith(b'</html>'))
         #강조 - 단위 테스트는 기능 테스트에 의해 파생되며 더 실제 코드에 가깝다.

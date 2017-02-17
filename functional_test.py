@@ -17,7 +17,7 @@ class NewVisitorTest(unittest.TestCase):
         # 해당 웹 사이트를 확인하러간다
         self.browser.get('http://localhost:8000')
         # 웹 페이지 타이틀과 헤더가 'To-do'를 표시하고있다.
-        self.assertIn('To-do', self.browser.title)
+        self.assertIn('To-Do', self.browser.title)
         # 테스트 어설션을 만들기 위해, assert 대신에 self.assertIn 사용
         self.fail('Finish the test!')
         # 강제적 테스트 실패 
