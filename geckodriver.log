@@ -148,3 +148,11 @@ Full stack:
 1487333002379	Marionette	WARN	Using deprecated data structure for setting timeouts
 [Child 17103] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
 [Child 17103] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+1487387527587	geckodriver	INFO	Listening on 127.0.0.1:50007
+1487387528657	mozprofile::profile	INFO	Using profile path /var/folders/tq/bwb532k15mj2dxymgnzlqkcr0000gn/T/rust_mozprofile.jb5rSDe4JWy4
+1487387528660	geckodriver::marionette	INFO	Starting browser /Applications/Firefox.app/Contents/MacOS/firefox-bin
+1487387528679	geckodriver::marionette	INFO	Connecting to Marionette on localhost:50016
+1487387529875	Marionette	INFO	Listening on port 50016
+1487387532273	Marionette	WARN	Using deprecated data structure for setting timeouts
+[Child 2573] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
+[Child 2573] ###!!! ABORT: Aborting on channel error.: file /builds/slave/m-rel-m64-00000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2056
