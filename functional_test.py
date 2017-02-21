@@ -38,7 +38,7 @@ class NewVisitorTest(unittest.TestCase):
         inputbox.send_keys(Keys.ENTER)
 
         table = self.browser.find_element_by_id('id_list_table')
-        rows = table.find_element_by_tag_name('tr')
+        rows = table.find_elements_by_tag_name('tr')
         self.assertTrue (
             any(row.text == '1: 세일상품 사기' for row in rows),
         )
@@ -65,3 +65,7 @@ if __name__ == '__main__':
     unittest.main(warnings= 'ignore' )
     # unittest.main() 호출하여 unittest테스트 실행자를 실행한다.
     # 이 코드는 실행자 이기 때문에 클래스에 있어야한다. 
+
+
+    # find_element_by : 하나의 요소만 반환하며 요소가 없는 경우 예외를 발생 시킨다.
+    # find_elements_by : 리스트를 반환하고 이리스트가 비어있어도 괜찮다.

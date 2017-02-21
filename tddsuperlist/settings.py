@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
     
     # lists앱 의존성 추가 
-    'lists'
+    'lists' , 
 ]
 
 MIDDLEWARE = [
