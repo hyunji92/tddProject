@@ -1,4 +1,6 @@
 from selenium import webdriver
+from selenium.webdriver.common.keys import Keys
+
 import unittest
 
 class NewVisitorTest(unittest.TestCase):
@@ -41,6 +43,7 @@ class NewVisitorTest(unittest.TestCase):
         rows = table.find_elements_by_tag_name('tr')
         self.assertTrue (
             any(row.text == '1: 세일상품 사기' for row in rows),
+            "신규 작업이 테이블에 표시되지 않는다."
         )
 
         # 추가 아이템을 입력할 수 있는 여분의 텍스트 상자가 존재한다.
